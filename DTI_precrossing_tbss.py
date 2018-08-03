@@ -36,10 +36,10 @@ subject_list = ['COGPBC2001', 'COGPBC2002', 'COGPBC2003', 'COGPBC2004', 'COGPBC2
                 'COGPBC2019', 'COGPBC2020', 'COGPBC2021', 'COGPBC2023', 'COGPBC2025']
 
 # set the data directories
-dataDir = os.path.abspath('/home/nmrc71_ubuntu/mriarchive/COGPBC2/NIFTI_data/')
-resultsDir = os.path.abspath('/home/nmrc71_ubuntu/mriarchive/COGPBC2/DTI_analysis/DTI_FIT/')
-preprocessing_dir = os.path.abspath('/home/nmrc71_ubuntu/mriarchive/COGPBC2/DTI_analysis/preprocessing/')
-tbss_dir = os.path.abspath('/home/nmrc71_ubuntu/mriarchive/COGPBC2/DTI_analysis/tbss/')
+dataDir = os.path.abspath('/home/jehill/mriarchive/COGPBC2/NIFTI_data/')
+resultsDir = os.path.abspath('/home/jehill/mriarchive/COGPBC2/DTI_analysis/DTI_FIT/')
+preprocessing_dir = os.path.abspath('/home/jehill/mriarchive/COGPBC2/DTI_analysis/preprocessing/')
+tbss_dir = os.path.abspath('/home/jehill/mriarchive/COGPBC2/DTI_analysis/tbss/')
 
 data = pe.Node(nio.DataGrabber(infields=['subject_id'],
                                outfields=['dwi', 'bvecs', 'bvals', 'dwi_rev']), name='datasource')
