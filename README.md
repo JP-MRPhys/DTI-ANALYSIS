@@ -1,4 +1,4 @@
-## Pipeline to do advanced duffsion tensor image analysis, pre-processing, track based spatial statistics and tract visualisation  
+## Pipeline to do advanced duffsion tensor image analysis, pre-processing, track based spatial statistics (TBSS) and tract visualisation  
 
 
 ### Example image (low resolution)
