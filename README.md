@@ -30,6 +30,8 @@
   1. Difussion kurtosis imaging 
   2. GPU support for eddy and DTI-FIT
 
+  ### Example image (low resolution)
 
 
 
+![dti1](https://user-images.githubusercontent.com/10104388/43639024-bd1bcfc8-9712-11e8-8181-1cfca7205d4d.png)
