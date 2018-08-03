@@ -1,4 +1,4 @@
-# Pipeline to do advanced DTI pre-processing and Tractography analysis 
+## Pipeline to do advanced duffsion tensor image analysis, pre-processing, track based spatial statistics and tract visualisation  
 
 
 ### Example image (low resolution)
