@@ -7,7 +7,7 @@
 ## Requirement 
   1. Packages: NIPYPE, FSL, DICOM2NIFTI, ANTS, SPM (MATLAB)
   2. Configuration: Anaconda
-  3. DTI data (with flipped B0 acquistions to apply eddy current corrections)
+  3. DTI scan, b-vectors and b-values files, and flipped B0 acquistions to apply eddy current corrections
   
   
   ## Stage 1 (PREPROCESSING)
