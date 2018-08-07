@@ -20,7 +20,7 @@
   
   ## Stage 3 (Track Isolation: Not part of this script)
   
-  Trackvis: To do visulisation and isoloation of tracks
+  Trackvis: To do visulisation and isolation of individual tracks
  
   ## Usage
   
