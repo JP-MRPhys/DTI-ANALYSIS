@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
     subject_list2 = ['COGPBC2001']
 
-    data_dir = os.path.abspath('/homenmrc71_ubuntu/mriarchive/COGPBC2/DICOM_Data/')
+    data_dir = os.path.abspath('/home/nmrc71_ubuntu/mriarchive/COGPBC2/DICOM_Data/')
     results_dir = os.path.abspath('/home/nmrc71_ubuntu/COGPBC2/NIFTI_2/')
 
     for subject in subject_list2:
