@@ -29,7 +29,7 @@
   
   python "yourfilename.py"
   
-  if necessary employ dcm2niix (avaliable from neuro-debian), and employ dcm2niix_conversion.py to convert dicom to nifti images
+  if necessary employ  dcm2niix via utility script dcm2niix_conversion.py to convert dicom to nifti images
   
   ### WIP 
   
