@@ -218,5 +218,5 @@ if __name__ == '__main__':
     wf.write_graph()
 
     # do the DTI analysis
-    # tbssproc.run()  # do the TBSS
-    # tbssproc.write_graph()
+    tbssproc.run()  # do the TBSS
+    tbssproc.write_graph()
