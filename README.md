@@ -14,7 +14,7 @@
   
   Preprocessing (top-up and eddy current), DTI-FIT to generate FA and MD data using DTI scan, BVEC, BVALS, DTI_Bo_flipped (eddy     current correction) 
   
-  ## Stage 2 (TBSS)
+  ## Stage 2 (Track-Based Spatial Statistics)
   
   Using FA and MD values to do track based spatial stastistics (TBSS)
   
