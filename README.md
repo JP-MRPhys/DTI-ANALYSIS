@@ -5,8 +5,8 @@
 ![dti1](https://user-images.githubusercontent.com/10104388/43639024-bd1bcfc8-9712-11e8-8181-1cfca7205d4d.png)
 
 ## Requirement 
-  1. Packages: NIPYPE, FSL, DICOM2NIFTI, ANTS, SPM (MATLAB)
-  2. Configuration: Anaconda
+  1. Packages: NIPYPE, FSL, DICOM2NIFTI (22 June 2018 or later build, this avoids DTI re-ordering issues in philips data), ANTS, SPM V8 
+  2. Configuration: Anaconda, MATLAB
   3. DTI scan, b-vectors and b-values files, and flipped B0 acquistions to apply eddy current corrections
   
   
