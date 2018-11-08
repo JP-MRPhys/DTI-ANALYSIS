@@ -3,7 +3,7 @@
 """
 Created on Fri Aug 11 15:16:56 2017
 @author: Jehill Parikh
-Requirements: NYPYPE, FSL,SPM, ANT
+Requirements: NIPYPE, FSL,SPM, ANT
 """
 
 """
