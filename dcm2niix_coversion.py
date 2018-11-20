@@ -4,6 +4,8 @@ import os
 """
 for known issue's see 
 https://github.com/nipy/nipype/issues/1389
+
+update: Nov 2018
 """
 
 converter = Dcm2niix();
