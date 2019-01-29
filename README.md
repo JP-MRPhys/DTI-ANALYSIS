@@ -33,7 +33,7 @@
   
   ### WIP 
   
-  1. Difussion kurtosis imaging 
+  1. Diffussion kurtosis imaging 
   2. GPU support for eddy and DTI-FIT
 
 
